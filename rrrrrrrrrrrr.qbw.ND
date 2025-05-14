@@ -1,0 +1,9 @@
+//This is QuickBooks configuration File. It exists while users are connected
+// to a company file. Do not delete this file yourself. QuickBooks may not
+// operate correctly IF you manually delete this file.
+[NetConnect]
+EngineName=QB_data_engine_28
+FilePath=C:\Users\COBANGA\Documents\rrrrrrrrrrrr.qbw
+ServerMode=2
+FileConnectionGuid=d769e5b0c2e94e5b8c3b0a039be06e28
+
